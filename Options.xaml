@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="Project.Options"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Project"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"    
+    d:DesignWidth="1280"
+    d:DesignHeight="800">
+    <Grid Background="Black">
+        <Button x:Name="cmdBack" Content="Back" HorizontalAlignment="Left" Height="77" Margin="1000,70,0,0" VerticalAlignment="Top" Width="163" Click="GoBack"/>
+        <TextBlock Text="Options" FontSize="36" HorizontalAlignment="Left" Margin="150,70,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="79" Width="203"/>
+        <CheckBox Name="tilt" Content="" Unchecked="CheckBox_UnChecked" HorizontalAlignment="Left" Margin="400,200,0,0" VerticalAlignment="Top" Height="42" Width="380" FontSize="24" Checked="CheckBox_Checked"/>
+        <TextBlock Text="Enable Tilt" FontSize="24" HorizontalAlignment="Left" Margin="150,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="79" Width="203"/>
+        <Slider Name="touchSensitivity"  Value="50" HorizontalAlignment="Left" VerticalAlignment="Top" Width="500" Margin="400,250,0,0" ValueChanged="Slider_ValueChanged"  />
+        <TextBlock Text="Touch Sensitivity" Margin="150,250,0,0" FontSize="24" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" />
+        <Slider Name="aiSpeed" Value="100" HorizontalAlignment="Left" VerticalAlignment="Top" Width="500" Margin="400,300,0,0" ValueChanged="AISlider_ValueChanged"  />
+        <TextBlock Text="AI Speed" Margin="150,300,0,0" FontSize="24" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" />
+        <Slider Name="puckSpeed" Value="50" HorizontalAlignment="Left" VerticalAlignment="Top" Width="500" Margin="400,350,0,0" ValueChanged="PuckSlider_ValueChanged"  />
+        <TextBlock Text="Puck Speed" Margin="150,350,0,0" FontSize="24" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" />
+        <Slider Name="friction" Value="50" HorizontalAlignment="Left" VerticalAlignment="Top" Width="500" Margin="400,400,0,0" ValueChanged="FrictionSlider_ValueChanged"  />
+        <TextBlock Text="Friction" Margin="150,400,0,0" FontSize="24" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" />
+        <Slider Name="winScore" Value="7" Minimum="3" Maximum="10" HorizontalAlignment="Left" VerticalAlignment="Top" Width="500" Margin="400,450,0,0" ValueChanged="WinSlider_ValueChanged"  />
+        <TextBlock Text="Score to Win" Margin="150,450,0,0" FontSize="24" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" />
+    </Grid>
+</Page>

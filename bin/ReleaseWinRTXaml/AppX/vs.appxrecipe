@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JORDANBURDETT</Machine>
+    <WindowsUser>Jordan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Jordan\Desktop\graphicsgroup-airhockey\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>5F4187C5F016C9950BB85D105585D9BFC9DAF1E25E8512DCD9FA8CDD2016D725</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3_1.0.0.2_neutral__krm60ykp99x2c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3_krm60ykp99x2c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>BF719CB4-F851-4D0C-92F7-A997B8B0C7C3</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=AAH</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.2</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-23T00:47:30.985</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\Project.WinRTXaml.exe">
+      <PackagePath>Project.WinRTXaml.exe</PackagePath>
+      <Modified>2014-10-23T00:47:30.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.D3DCompiler.dll">
+      <PackagePath>SharpDX.D3DCompiler.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.344</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.Toolkit.Audio.dll">
+      <PackagePath>SharpDX.Toolkit.Audio.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.814</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.Toolkit.dll">
+      <PackagePath>SharpDX.Toolkit.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.830</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.Toolkit.Game.dll">
+      <PackagePath>SharpDX.Toolkit.Game.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.Toolkit.Graphics.dll">
+      <PackagePath>SharpDX.Toolkit.Graphics.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.Toolkit.Input.dll">
+      <PackagePath>SharpDX.Toolkit.Input.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.Toolkit.Yaml.dll">
+      <PackagePath>SharpDX.Toolkit.Yaml.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2014-10-14T03:58:39.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\SharpDX\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2014-10-14T03:58:40.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-23T01:04:51.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-23T01:04:51.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-23T01:04:51.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-23T01:04:51.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\Content\enemy projectile.png">
+      <PackagePath>Content\enemy projectile.png</PackagePath>
+      <Modified>2014-10-14T03:58:37.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\Content\enemy.png">
+      <PackagePath>Content\enemy.png</PackagePath>
+      <Modified>2014-10-14T03:58:37.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\Content\player projectile.png">
+      <PackagePath>Content\player projectile.png</PackagePath>
+      <Modified>2014-10-14T03:58:37.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\Content\player.png">
+      <PackagePath>Content\player.png</PackagePath>
+      <Modified>2014-10-14T03:58:37.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\readme.txt">
+      <PackagePath>readme.txt</PackagePath>
+      <Modified>2014-10-22T12:54:47.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\obj\Release\Content\Gouraud.tkb">
+      <PackagePath>Content\Gouraud.tkb</PackagePath>
+      <Modified>2014-10-23T00:44:22.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\obj\Release\Content\Phong.tkb">
+      <PackagePath>Content\Phong.tkb</PackagePath>
+      <Modified>2014-10-23T00:44:22.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\obj\Release\Content\Car.tkb">
+      <PackagePath>Content\Car.tkb</PackagePath>
+      <Modified>2014-10-23T00:44:22.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\obj\Release\Content\puck.tkb">
+      <PackagePath>Content\puck.tkb</PackagePath>
+      <Modified>2014-10-23T00:44:22.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\obj\Release\Content\paddle.tkb">
+      <PackagePath>Content\paddle.tkb</PackagePath>
+      <Modified>2014-10-23T00:44:23.054</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\obj\Release\Content\arena.tkb">
+      <PackagePath>Content\arena.tkb</PackagePath>
+      <Modified>2014-10-23T00:44:23.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-23T00:47:30.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\PauseMenu.xbf">
+      <PackagePath>PauseMenu.xbf</PackagePath>
+      <Modified>2014-10-23T00:47:30.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\GameOver.xbf">
+      <PackagePath>GameOver.xbf</PackagePath>
+      <Modified>2014-10-23T00:47:30.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\Options.xbf">
+      <PackagePath>Options.xbf</PackagePath>
+      <Modified>2014-10-23T00:47:30.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2014-10-23T00:47:30.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\MainMenu.xbf">
+      <PackagePath>MainMenu.xbf</PackagePath>
+      <Modified>2014-10-23T00:47:30.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\Instructions.xbf">
+      <PackagePath>Instructions.xbf</PackagePath>
+      <Modified>2014-10-23T00:47:30.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-10-23T00:47:30.125</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\Project.WinRTXaml.xr.xml">
+      <PackagePath>Project.WinRTXaml.xr.xml</PackagePath>
+      <Modified>2014-10-23T00:44:25.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Jordan\Desktop\graphicsgroup-airhockey\bin\ReleaseWinRTXaml\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-23T01:04:55.935</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
